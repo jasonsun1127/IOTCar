@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: AutoFirstCar
-  host: drivecar
+  name: autoFirstCar
+  host: autoFirstCar
   disk_quota: 1024M
