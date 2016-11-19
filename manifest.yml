@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: AutoFirstCar
-  host: AutoFirstCar
+  host: drivecar
   disk_quota: 1024M
